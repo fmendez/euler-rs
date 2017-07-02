@@ -1,6 +1,6 @@
 [package]
 name = "euler-rs"
 version = "0.1.0"
-authors = ["Fernando Mendez <fernando.a.mendez69@gmail.com>"]
+authors = ["Fernando Mendez"]
 
 [dependencies]

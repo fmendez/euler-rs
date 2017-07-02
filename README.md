@@ -2,3 +2,7 @@
 Solutions for Project Euler problems in rust.
 
 ![Progress](https://projecteuler.net/profile/_fmendez.png)
+
+Unit test:
+
+`cargo test --lib`
